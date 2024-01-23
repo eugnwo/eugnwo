@@ -1,7 +1,4 @@
 <div align = center>
-  
-  ![header](https://capsule-render.vercel.app/api?type=Waving&height=200&text=Flutter_Developer&animation=fadeIn&FontSize=40)
-  
 <h2>Skill</h2>
   <a href="https://dart.dev/" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white"/>
   </a>
